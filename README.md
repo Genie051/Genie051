@@ -1,5 +1,7 @@
 ### Hi there 👋
-ㅇㅇㅇ
+ 
+ 
+ 
 
 <!--
 **Genie051/Genie051** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
